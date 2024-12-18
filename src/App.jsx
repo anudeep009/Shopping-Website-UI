@@ -10,7 +10,7 @@ function App() {
     <div className="bg-gray-50 min-h-screen">
       <Header />
       <main className="max-w-7xl mx-auto p-4 md:p-6 lg:p-8">
-        <Breadcrumbs />
+        <BreadCrumbs />
         <div className="grid grid-cols-1 lg:grid-cols-[1fr_400px] gap-8 items-start">
           <div className="space-y-6">
             <ProductDetails />
