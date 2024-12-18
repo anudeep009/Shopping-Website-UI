@@ -1,4 +1,4 @@
-import MenuItems from "./MenuItems";
+import MenuItems from "./MenuItems.jsx";
 import { BsCart3 } from "react-icons/bs";
 import { MdOutlineFavorite } from "react-icons/md";
 

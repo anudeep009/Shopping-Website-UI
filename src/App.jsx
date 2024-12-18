@@ -1,9 +1,9 @@
-import Header from "./components/Header";
-import Breadcrumbs from "./components/Breadcrumbs";
-import ProductDetails from "./components/ProductDetails";
-import ProductReviews from "./components/ProductReviews";
-import ProductPriceDetails from "./components/ProductPriceDetails";
-import ProductComments from "./components/ProductComments";
+import Header from "./components/Header.jsx";
+import BreadCrumbs from "./components/BreadCrumbs.jsx"
+import ProductDetails from "./components/ProductDetails.jsx";
+import ProductReviews from "./components/ProductReviews.jsx";
+import ProductPriceDetails from "./components/ProductPriceDetails.jsx";
+import ProductComments from "./components/ProductComments.jsx";
 
 function App() {
   return (

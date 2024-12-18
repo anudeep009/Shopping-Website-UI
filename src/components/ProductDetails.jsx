@@ -1,4 +1,4 @@
-import ProductImageGallery from "./ProductImageGallery";
+import ProductImageGallery from "./ProductImageGallery.jsx";
 
 function ProductDetails() {
   return (
