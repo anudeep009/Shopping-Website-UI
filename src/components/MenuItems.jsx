@@ -12,7 +12,7 @@ function MenuItems() {
   ];
 
   return (
-    <div className="text-sm md:text-base lg:text-lg ml-4 md:ml-10">
+    <div className="text-sm md:text-base lg:text-lg ml-4 md:ml-10 mt-2 sm:mt-4">
   <ul className="flex flex-wrap justify-start gap-x-4 md:gap-x-8">
     {menuitems.map((item) => (
       <li
